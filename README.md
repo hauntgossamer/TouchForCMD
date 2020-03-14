@@ -3,6 +3,7 @@ This is a script I wrote (which includes an installer and an uninstaller) for Wi
 
 Installation instructions:
 
+Download the files with this link! [Download](https://github.com/darkwolfxj/TouchForCMD/archive/master.zip)
 1) Run Install TouchForCMD
 2) Click okay on the User Access Control Dialog Box
 3) Press any key when the batch is done running.
